@@ -1,8 +1,9 @@
 # DSA
 This Repo is about DSA topics notes. Please refer below index. Each topic is covered two times. The index reltated to Sr NO 1 to 18 contain notes related to that topic for basic level. Then the next index from 19 to 39 covers advanced topic of DSA. This is based on GFG self-paced python course taught by Mr. Sandeep Jain.
 
-Sr No	Topic	Type
-0	Analysis of Algorthim	Basic
+|Sr No|	Topic|	Type|
+|---|---|---|
+|0|	Analysis of Algorthim|	Basic|
 1	Mathematics	Basic
 2	List	Basic
 3	Recursion	Basic
