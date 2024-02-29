@@ -3,7 +3,7 @@ This Repo is about DSA topics notes. Please refer below index. Each topic is cov
 
 |Sr No|	Topic|	Type|
 |---|---|---|
-||0|Analysis of Algorthim|	Basic|
+|0|Analysis of Algorthim|	Basic|
 |1	|Mathematics	|Basic|
 |2	|List	|Basic|
 |3	|Recursion	|Basic|
